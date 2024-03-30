@@ -1,6 +1,6 @@
-### Coé, sou o Yan
+### Coé, sou o Yan!
 
-- 🔭 Atualmente, estudo Banco de Dados na Fatec SJC
+-  📖 Atualmente, estudo Banco de Dados na Fatec SJC
 
 <div>
   <a href="https://github.com/YanYamim">
