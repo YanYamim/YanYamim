@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">-  🤓 Starting my career recently <br>-  📖 Student of Database Development at São Paulo Technology College (FATEC)<br>- 💻 Developer FullStack<br>- 📝 Email for contact: yanyamim@gmail.com</p>
+<p align="left">-  🤓 Recently started my career  <br>-  📖 Student of Database Development at São Paulo Technology College (FATEC)<br>- 💻 Full Stack Developer<br>- 📝 Email for contact: yanyamim@gmail.com</p>
 
 ###
 
@@ -34,7 +34,7 @@
 
 ###
 
-<h2 align="left">Tecnologies</h2>
+<h2 align="left">Technologies</h2>
 
 ###
 
